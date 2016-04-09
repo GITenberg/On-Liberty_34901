@@ -1,0 +1,34 @@
+_repo: On-Liberty_34901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mill, John Stuart
+    alias: Mill, J. S. (John Stuart)
+    birthdate: 1806
+    deathdate: 1873
+    gutenberg_agent_id: '1705'
+    url: http://www.gutenberg.org/2009/agents/1705
+    wikipedia: http://en.wikipedia.org/wiki/John_Stuart_Mill
+description: '"Over himself, over his own body and mind, the individual is sovereign".
+  The whole of John Stuart Mill''s "On Liberty" is dedicated to this simple principle.
+  While many of his immediate predecessors and contemporaries, from Adam Smith to
+  Godwin and Thoreau, had celebrated liberty, it was Mill who organized the idea into
+  a philosophy and put it into the form in which it is known today. In this text,
+  Mill argues that liberty must play a central role in social policy, necessitating
+  a redrawing of the line between the authority wielded by the state and the independence
+  of the individual.'
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2011-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Liberty'
+- !lcc 'JC'
+- GITenberg
+title: On Liberty
+url: http://www.gutenberg.org/ebooks/34901
