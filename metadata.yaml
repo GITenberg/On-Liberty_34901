@@ -1,5 +1,8 @@
 _repo: On-Liberty_34901
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mill, John Stuart
@@ -17,6 +20,8 @@ description: '"Over himself, over his own body and mind, the individual is sover
   Mill argues that liberty must play a central role in social policy, necessitating
   a redrawing of the line between the authority wielded by the state and the independence
   of the individual.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34901#On-Liberty
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2011-01-10'
 gutenberg_type: Text
